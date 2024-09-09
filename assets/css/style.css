@@ -84,6 +84,11 @@ body {
   margin-right: auto;
 }
 
+.location {
+  margin-top: 3rem;
+  color: rgb(120, 108, 108);
+}
+
 .penut {
   margin-top: 5rem;
   height: 25rem;
